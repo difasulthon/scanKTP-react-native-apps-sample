@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399257014597",
+    "firebase_url": "https://rnocr-f7706.firebaseio.com",
+    "project_id": "rnocr-f7706",
+    "storage_bucket": "rnocr-f7706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399257014597:android:9c5ae0b33007c87128ae2c",
+        "android_client_info": {
+          "package_name": "com.rnocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399257014597-pv6bpvg29atio7vubj9adppjddj76e3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk3R4nemZNFb0VbeZHxnejFJtT0cIEgWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399257014597-pv6bpvg29atio7vubj9adppjddj76e3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
